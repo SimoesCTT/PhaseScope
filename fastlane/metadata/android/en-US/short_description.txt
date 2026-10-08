@@ -1,0 +1,1 @@
+Phase coherence analyzer for EEG data. Local, no network. Research tool.

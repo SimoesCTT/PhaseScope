@@ -1,0 +1,6 @@
+Initial release.
+* CSV and EDF file loading
+* Band filter selection
+* Coherence matrix
+* Kuramoto order parameter
+* CSV export
