@@ -5,6 +5,10 @@ A phase coherence analyzer for EEG data.
 Computes the Kuramoto order parameter and pairwise phase coherence between
 channels of an EEG recording. All processing is local — no network, no upload.
 
+## Paper
+
+[PhaseScope: An Open-Source Android Application for Phase Coherence Analysis of EEG Recordings](paper/phasescope.tex) ([PDF](paper/phasescope.pdf))
+
 ## Features
 
 - Load EEG data from CSV or EDF files
