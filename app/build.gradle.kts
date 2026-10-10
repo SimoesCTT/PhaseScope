@@ -12,6 +12,11 @@ val keystoreProps = Properties().apply {
 }
 
 android {
+    dependenciesInfo {
+        includeInApk = false
+        includeInBundle = false
+    }
+
     namespace = "com.simoesctt.phasescope"
     compileSdk = 34
 
